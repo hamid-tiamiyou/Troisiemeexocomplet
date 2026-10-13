@@ -1,0 +1,42 @@
+.tete{
+    font-weight: bold;
+}
+.deuxieme{
+    color: rgb(179, 176, 171);
+}
+.rose{
+    color: white;
+    background-color: rgb(242, 134, 170);
+    padding: 3px;
+}
+.orange{
+    background-color: orange;
+    color: white;
+    padding: 1px;
+}
+.vert{
+    background-color: rgb(104, 211, 212);
+    padding: 3px;
+}
+.bleu{
+    background-color: rgb(84, 84, 248);
+    color: white;
+    padding: 1px;
+}
+.blok{
+    border: 1px solid white;
+    
+    
+
+}
+table{
+    border: none;
+    
+}
+th,td{
+    border: none;
+    border-bottom: 2px solid antiquewhite;
+}
+.rouge{
+    color: pink;
+}
